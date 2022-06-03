@@ -1,3 +1,11 @@
+# IDConverter 0.3.2
+
+* Enhanced `parse_gdc_file_uuid()`.
+
+# IDConverter 0.3.1
+
+* Re-implemented `parse_gdc_file_uuid()`.
+
 # IDConverter 0.3.0
 
 * Used tempdir as user default data directory.
